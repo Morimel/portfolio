@@ -3,7 +3,7 @@ import { Navbar, Nav, Container } from "react-bootstrap";
 import { NavLink } from "react-router-dom";
 
 import "./Header.scss";
-import resume from "../../images/Sosnin_MI_resume.pdf";
+import resume from "../../images/salymbekovUniversityMelsovIsa.pdf";
 
 function Header() {
   const [isHeaderVisible, setIsHeaderVisible] = useState(true); // Изчезающий хедер

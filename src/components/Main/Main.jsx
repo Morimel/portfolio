@@ -27,7 +27,7 @@ function Main() {
     <main className="main container">
       <div className="row">
         <section className="greeting col-md-7">
-          <h1 className="greeting__upper-text">Привет, я Михаил.</h1>
+          <h1 className="greeting__upper-text">Привет, я Иса.</h1>
           <h2 className="greeting__lower-text">
             Начинающий <br />
             <span className="highlighted-text">
@@ -36,7 +36,7 @@ function Main() {
           </h2>
         </section>
         <section className="myphoto fade-in col-md-5">
-          <img className="myphoto__img" src={ava} alt="i'am"></img>
+          {/* <img className="myphoto__img" src={ava} alt="i'am"></img> */}
         </section>
       </div>
       <div className="row">

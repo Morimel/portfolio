@@ -9,7 +9,7 @@ function Footer() {
 
   if (loading) return null;
 
-  return <p className="footer">Михаил Соснин &copy; 2023</p>;
+  return <p className="footer">Мэлсов Иса &copy; 2024</p>;
 }
 
 export default Footer;
